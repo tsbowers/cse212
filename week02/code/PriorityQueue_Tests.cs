@@ -39,3 +39,4 @@ public class PriorityQueueTests
             Assert.AreEqual("The queue is empty.", e.Message);
         }
     }
+}
